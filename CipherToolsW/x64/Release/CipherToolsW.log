@@ -1,0 +1,103 @@
+﻿  aes.c
+  mul_of_8_key_recovery.c
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(93,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(136,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(114,20): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(522,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(500,20): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(502,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(750,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(807,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(808,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(811,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(812,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(872,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(873,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(876,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(877,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(937,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(938,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(941,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(942,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1002,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1003,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1006,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1007,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1067,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1068,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1071,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1072,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1132,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1133,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1136,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1137,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(724,20): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(724,23): warning C4101: 'cnt' :참조되지 않은 지역 변수입니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(724,38): warning C4101: 'cnt_idx' :참조되지 않은 지역 변수입니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1214,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1271,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1272,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1275,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1276,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1336,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1337,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1340,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1341,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1401,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1402,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1405,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1406,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1466,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1467,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1470,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1471,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1531,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1532,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1535,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1536,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1596,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1597,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1600,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1601,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1188,20): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1188,23): warning C4101: 'cnt' :참조되지 않은 지역 변수입니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1188,38): warning C4101: 'cnt_idx' :참조되지 않은 지역 변수입니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1678,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1735,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1736,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1739,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1740,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1800,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1801,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1804,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1805,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1865,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1866,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1869,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1870,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1930,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1931,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1934,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1935,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1995,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1996,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1999,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(2000,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(2060,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(2061,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(2064,46): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(2065,42): warning C4244: '=': 'uint64_t'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1652,20): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1652,23): warning C4101: 'cnt' :참조되지 않은 지역 변수입니다.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(1652,38): warning C4101: 'cnt_idx' :참조되지 않은 지역 변수입니다.
+     C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\x64\Release\libciphertools.lib 라이브러리 및 C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\x64\Release\libciphertools.exp 개체를 생성하고 있습니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\Lib_Source\mul_of_8_key_recovery.c(715): warning C4716: 'MUL_OF_8_DISTINGUISHER_NUM_ONLY': 값을 반환해야 합니다.
+  All 34 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  CipherToolsW.vcxproj -> C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\x64\Release\libciphertools.dll
+  C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\x64\Release\libciphertools.dll
+  1개 파일이 복사되었습니다.
+  C:\Users\Shinhanbum\Desktop\mul_of_8_key_recovery\x64\Release\libciphertools.lib
+  1개 파일이 복사되었습니다.

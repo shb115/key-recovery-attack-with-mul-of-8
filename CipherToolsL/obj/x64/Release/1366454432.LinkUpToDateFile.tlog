@@ -1,0 +1,1 @@
+g++ -o "/home/shinhanbum/projects/CipherToolsL/bin/x64/Release/libciphertools.so" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack -shared /home/shinhanbum/projects/CipherToolsL/obj/x64/Release/aes.o /home/shinhanbum/projects/CipherToolsL/obj/x64/Release/mul_of_8_key_recovery.o
