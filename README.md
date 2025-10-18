@@ -13,8 +13,14 @@ This research proposes a key-recovery attack on 5-round AES (Advanced Encryption
 ---
 
 ## 📂 Repository Structure
-├── ciphertools/ # Contains the built .dll and .so shared library files. ├── ciphertoolsL/ # C project for Linux environments. ├── ciphertoolsw/ # C project for Windows environments. ├── lib_source/ # C source code for the AES and attack algorithms. ├── results/ # Pickle files containing experiment results. ├── wrapper/ # Python wrapper scripts that utilize the C library. └── ciphertools.sln # Visual Studio solution file.
-
+```
+├── ciphertools/ # Contains the built .dll and .so shared library files. 
+├── ciphertoolsL/ # C project for Linux environments. 
+├── ciphertoolsw/ # C project for Windows environments. 
+├── lib_source/ # C source code for the AES and attack algorithms. 
+├── results/ # Pickle files containing experiment results. 
+├── wrapper/ # Python wrapper scripts that utilize the C library. └── ciphertools.sln # Visual Studio solution file.
+```
 -   **`ciphertools.sln`**: The main Visual Studio solution file containing the `ciphertoolsw` (Windows) and `ciphertoolsL` (Linux) projects.
 -   **`lib_source`**: Contains the C source code implementing the core AES encryption and key-recovery attack logic.
 -   **`ciphertoolsw` / `ciphertoolsL`**: Project files for compiling the C code in Windows and Linux environments, respectively.
